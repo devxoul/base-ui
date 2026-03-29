@@ -87,7 +87,7 @@
     "globby": "16.1.1",
     "jsdom": "27.4.0",
     "lerna": "9.0.7",
-    "markdownlint-cli2": "0.21.0",
+    "markdownlint-cli2": "0.22.0",
     "pkg-pr-new": "0.0.66",
     "prettier": "3.8.1",
     "pretty-quick": "4.2.2",
